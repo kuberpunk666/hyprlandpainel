@@ -49,8 +49,8 @@ mv $HOME/.config/ags $HOME/.config/ags.bkup
 ```
 Otherwise you can use this command to install the panel:
 ```bash
-git clone https://github.com/Jas-SinghFSU/HyprPanel.git && \
-  ln -s $(pwd)/HyprPanel $HOME/.config/ags
+git clone https://github.com/kuberpunk666/hyprlandpainel.git && \
+  ln -s $(pwd)/hyprlandpainel $HOME/.config/ags
 ```
 ### Nerd Fonts
 Additionally, you need to ensure that you have a [Nerd Font](https://www.nerdfonts.com/font-downloads) installed for your icons to render properly.
